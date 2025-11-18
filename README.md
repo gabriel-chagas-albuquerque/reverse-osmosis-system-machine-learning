@@ -258,7 +258,7 @@ Este é um projeto acadêmico (TCC). Sugestões e melhorias são bem-vindas atra
 
 ## 📧 Contato
 
-Para dúvidas sobre o projeto, entre em contato através do repositório ou com o orientador do TCC.
+Para dúvidas sobre o projeto, entre em contato através do repositório ou através do e-mail gabrieldafortaleza0100@gmail.com.
 
 ---
 
