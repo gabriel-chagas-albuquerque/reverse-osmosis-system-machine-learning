@@ -250,9 +250,6 @@ Trabalho de Conclusão de Curso
 
 ---
 
-
----
-
 ## 🤝 Contribuições
 
 Este é um projeto acadêmico (TCC). Sugestões e melhorias são bem-vindas através de issues ou pull requests.
